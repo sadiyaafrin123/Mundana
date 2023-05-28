@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    width: 90%;
+    height: 60px;
+  
+    display: flex;
+    flex: 1 1 100%;
+    
+}
+.appco-img{
+   margin: 10px 20px 40px 40px;
+}
+.appco-litter{
+    flex: 1 1 90%;
+    box-sizing: border-box;
+    display: flex;
+    
+}
+ul{
+    margin-left: 500px;
+    
+}
+.appco-litter ul li{
+    list-style: none;
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    display: flex;
+    flex: 1 1 90%;
+    list-style: none;
+    padding: 5px 20px 40px 40px;
+   font-family:  Poppins, sans-serif;;
+    color: #450b78;
+}
+ul li a:hover{
+    color:blue;
+    text-decoration: underline 10px ;
+    
+}
+main{
+    width: 90%;
+    height: 60px;
+    display: flex;
+}
+.aside{
+    
+}
